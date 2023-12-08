@@ -1,5 +1,0 @@
-".\Objects\dht22.obj",
-".\Objects\main.obj",
-".\Objects\oled.obj" 
-TO ".\Objects\PROJECT" 
-PRINT(".\Listings\PROJECT.m51") RAMSIZE(256) 
